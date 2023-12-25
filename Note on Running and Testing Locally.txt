@@ -1,0 +1,11 @@
+You can run python3 ok --local and it will work perfectly fine! You don't need the online autograder. You can also run the doctests with python3 -m doctest filename.py --verbose
+
+Hope this helps!
+
+- randomquod
+
+RUNNING EXAMS
+python ok --local -q file-name -u
+
+RUNNING TESTS
+python -m doctest filename.py --verbose
